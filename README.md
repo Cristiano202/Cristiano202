@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Olá, eu sou Cristiano
 
-<!--
-**Cristiano202/Cristiano202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-cristiano-carvalho/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Cristiano202)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:20cristianogoncalves20.22@gmail)
 
-Here are some ideas to get you started:
+Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, com foco em desenvolvimento backend usando **Java e Spring Boot**.  
+Acredito que código bem estruturado e boas práticas são essenciais para construir soluções escaláveis e de qualidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 **Objetivo:** oportunidade como desenvolvedor backend (estágio ou júnior) para aplicar meus conhecimentos e crescer profissionalmente.
+
+---
+
+## 🚀 Stack Principal
+
+| Área | Tecnologias |
+|------|-------------|
+| **Linguagens & Frameworks** | Java, Spring Boot, JavaScript |
+| **Arquitetura & Boas Práticas** | REST, MVC, Clean Code |
+| **Ferramentas** | Git, Docker, IntelliJ IDEA |
+
+---
+
+## 📈 Estatísticas
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Cristiano202&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristiano202&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" />
+</div>
+
+---
+
+## 📚 Em constante evolução
+
+Atualmente aprofundando estudos em:
+
+- Spring Boot avançado
+- Arquitetura de Software
+- Testes automatizados
+- Docker
+
+---
+
+## 📫 Contato
+
+- **E-mail:** 20cristianogoncalves20.22@gmail
+- **LinkedIn:** [linkedin.com/in/dev-cristiano-carvalho](https://www.linkedin.com/in/dev-cristiano-carvalho/)
+
+---
+
+⭐️ *Readme construído com foco em clareza e profissionalismo.*
